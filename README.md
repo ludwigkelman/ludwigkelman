@@ -42,22 +42,22 @@ reliable systems, clear logic, and clean code matter.
 | Rank | 	Project Name | Description | Key focus | 
 | :---: | :--- |  :--- | :---: |  
 | 0 | libft | 	Recoding standard C library functions | ✅ |
-| 1 | ft_printf | 	Recoding the printf function | ⏳ |
-| 1 | get_next_line | 	Reading a line from a file descriptor | ⏳ |
-| 1 | push_swap | Sorting algorithm with restricted operations between 2 stacks | 🔒 |
-| 2 | python module 0 | Introduction to POO | 🔒 |
-| 2 | python module 1 | Introduction to POO | 🔒 |
-| 2 | python module 2 | Introduction to POO | 🔒 |
-| 2 | python module 3 | Introduction to POO | 🔒 |
-| 2 | python module 4 | Introduction to POO | 🔒 |
-| 2 | python module 5 | Learning polymorphism | 🔒 |
-| 2 | python module 6 | Python's import system | 🔒 |
-| 2 | python module 7 | Abstract class and interface in python | 🔒 |
-| 2 | python module 8 | Package manager and Virtual environment | 🔒 |
-| 2 | python module 9 | Robust data models, implement custom validation rules, and handle complex nested structures | 🔒 |
-| 2 | python module 10 | Python's advanced | 🔒 |
-| 2 | Born2beroot | Creating a VM | 🔒 |
-| 2 | A-Maze-ing | Building a project from scratch | 🔒 |
+| 1 | ft_printf | 	Recoding the printf function | ✅ |
+| 1 | get_next_line | 	Reading a line from a file descriptor | ✅  |
+| 1 | push_swap | Sorting algorithm with restricted operations between 2 stacks | ✅ |
+| 2 | python module 0 | Introduction to POO | ✅ |
+| 2 | python module 1 | Introduction to POO | ⏳ |
+| 2 | python module 2 | Introduction to POO | ⏳ |
+| 2 | python module 3 | Introduction to POO | ⏳ |
+| 2 | python module 4 | Introduction to POO | ⏳ |
+| 2 | python module 5 | Learning polymorphism | ⏳ |
+| 2 | python module 6 | Python's import system | ⏳ |
+| 2 | python module 7 | Abstract class and interface in python | ⏳ |
+| 2 | python module 8 | Package manager and Virtual environment | ⏳ |
+| 2 | python module 9 | Robust data models, implement custom validation rules, and handle complex nested structures | ⏳ |
+| 2 | python module 10 | Python's advanced | ⏳ |
+| 2 | Born2beroot | Creating a VM | ⏳ |
+| 2 | A-Maze-ing | Building a project from scratch | ⏳ |
 | 3 | Codexion | Implement POSIX threads, mutexes, condition variables, and sophisticated scheduling algorithms | 🔒 |
 | 3 | Fly-in | Design and implement an efficient drone routing system | 🔒 |
 | 3 | Call Me Maybe | Controlled decoding that ensures valid JSON | 🔒 |
